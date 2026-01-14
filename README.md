@@ -7,8 +7,6 @@
 
 - 📫 How to reach me **enpiiofficial@gmail.com**
 
-- ⚡ Fun fact **Ini github pribadi saya. Github yang berkaitan dengan pekerjaan ada di [arafi118](https://github.com/arafi118)**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/enpii.studio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="enpii.studio" height="30" width="40" /></a>
